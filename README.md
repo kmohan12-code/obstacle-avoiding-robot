@@ -46,9 +46,3 @@ This project involves creating an obstacle-avoiding robot that can navigate auto
 2. It will move forward autonomously and avoid obstacles using the ultrasonic sensor.
 3. If an obstacle is detected, the robot will stop, reverse, and choose a new direction based on available space.
 
-
-
-## Acknowledgements
-- Thanks to the Arduino community for their libraries and resources.
-- Special thanks to contributors of the Servo and NewPing libraries.
-
